@@ -1,6 +1,6 @@
 
 <?php
-include('./database/dbconnect.php');
+include('/database/dbconnect.php');
 function adminLogin($username, $password)
 {
   global $conn; // Access the $conn variable from the global scope

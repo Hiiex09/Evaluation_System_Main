@@ -1,6 +1,8 @@
 
 
-<?php include('../Evaluation_System - Copy\Evaluation_System-main/database/configuration.php'); ?>
+<?php 
+  include('../database/configuration.php'); 
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,9 +14,9 @@
 
 <body>
 
-  <?php
+  <!-- <?php
   include('header.php');
-  ?>
+  ?> -->
 
   <section class="mt-5">
     <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">

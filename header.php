@@ -1,5 +1,5 @@
 <?php
-  include '../evaluation_system-copy/evaluation_system/database/configuration.php';
+  include '../database/configuration.php';
 ?>
 
 <!DOCTYPE html>
