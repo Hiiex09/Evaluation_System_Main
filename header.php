@@ -1,5 +1,5 @@
 <?php
-  include '../database/configuration.php';
+  include 'database/configuration.php';
 ?>
 
 <!DOCTYPE html>
